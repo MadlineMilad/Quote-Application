@@ -1,0 +1,11 @@
+
+button{
+    background-color: blue;
+    color: white;
+    padding: 20px 50px;
+    margin-bottom: 20px;
+    /* transition: 1s background ; */
+}
+button:hover{
+    background-color: green;
+}
